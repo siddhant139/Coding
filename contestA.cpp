@@ -8,10 +8,10 @@ int mod = 1000000007;
 
 void runCase(int &testcase)
 {
-    int n, k;
-    cin >> n ;
-    vector<int> a(n);
-    for (int i=0;i<n;i++) {
+    int n1, k;
+    cin >> n1 ;
+    vector<int> a(n1);
+    for (int i=0;i<n1;i++) {
         cin >> a[i]; 
     }
     
